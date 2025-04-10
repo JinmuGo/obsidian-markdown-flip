@@ -1,0 +1,9 @@
+pre-commit:
+    parallel: false # Set to false to run commands sequentially; set to true if you prefer parallel execution.
+    commands:
+        build:
+            run: pnpm run build
+        test:
+            run: pnpm test
+        lint:
+            run: pnpm run lint

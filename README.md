@@ -9,10 +9,10 @@
 ## ✨ Features
 
 - Toggle between different Markdown block types by typing at the beginning of a line:
-  - `-` → Bullet list
-  - `1.` → Numbered list
-  - `>` → Blockquote
-  - `#`, `##`, `###` → Headings (H1 ~ H6)
+    - `-` → Bullet list
+    - `1.` → Numbered list
+    - `>` → Blockquote
+    - `#`, `##`, `###` → Headings (H1 ~ H6)
 - Remove existing block markers by typing `~` after a block marker
 - Works when you press `Space` after the marker
 
@@ -38,3 +38,7 @@ Feel free to open an issue or submit a pull request 🙌
 
 Maintained by [@JinmuGo](https://github.com/JinmuGo).  
 If you find this plugin useful, feel free to ⭐️ the repo or share feedback!
+
+---
+
+Happy flipping! 🚀
