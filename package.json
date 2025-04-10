@@ -1,7 +1,7 @@
 {
     "name": "obsidian-markdown-flip",
     "version": "1.0.0",
-    "description": "A lightweight Obsidian plugin to flip markdown line types with smart shortcuts",
+    "description": "A lightweight plugin to flip markdown line types with smart shortcuts",
     "main": "main.js",
     "packageManager": "pnpm@10.8.0",
     "scripts": {

@@ -3,7 +3,7 @@
     "name": "Markdown Flip",
     "version": "1.0.0",
     "minAppVersion": "0.15.0",
-    "description": "A lightweight Obsidian plugin to flip markdown line types with smart shortcuts",
+    "description": "A lightweight plugin to flip markdown line types with smart shortcuts",
     "author": "Jinmu Go",
     "authorUrl": "https://github.com/JinMuGo",
     "isDesktopOnly": false
