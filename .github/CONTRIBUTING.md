@@ -1,4 +1,4 @@
-# Contributing to webserv
+# Contributing to Markdown Flip
 
 We welcome contribution from everyone <br/>
 

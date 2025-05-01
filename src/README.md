@@ -1,6 +1,6 @@
-# Source Code - Obsidian Markdown Flip
+# Source Code - Markdown Flip
 
-This folder contains the core source code for the Obsidian plugin **Markdown Flip**, which allows users to quickly convert or remove markdown block markers (e.g., `-`, `1.`, `>`, `#`, `~`) by typing and pressing space.
+This folder contains the core source code for **Markdown Flip**, which allows users to quickly convert or remove markdown block markers (e.g., `-`, `1.`, `>`, `#`, `~`) by typing and pressing space.
 
 ---
 
@@ -8,7 +8,7 @@ This folder contains the core source code for the Obsidian plugin **Markdown Fli
 
 ```
 src/
-├── main.ts              # Plugin entry point for Obsidian
+├── main.ts              # entry point for Obsidian
 ├── flipLine.ts          # Main logic to transform markdown line formats
 ├── isFlipLine.ts        # Checks if a line is eligible for transformation
 ├── extractMarkers.ts    # Parses leading markdown markers from a line

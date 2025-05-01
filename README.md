@@ -1,6 +1,6 @@
-# Obsidian Markdown Flip
+# Markdown Flip
 
-Obsidian Markdown Flip is a plugin that helps you quickly convert markdown block types (like -, >, 1., #) by typing them at the start of a line and pressing space. You can even clear any applied block format using ~.
+Markdown Flip helps you quickly convert markdown block types (like -, >, 1., #) by typing them at the start of a line and pressing space. You can even clear any applied block format using ~.
 
 ![demo](https://github.com/user-attachments/assets/91e5f1f7-b75c-4d4b-b0bc-809f7038cfc1)
 
@@ -37,7 +37,7 @@ Feel free to open an issue or submit a pull request 🙌
 ## 💬 Contact
 
 Maintained by [@JinmuGo](https://github.com/JinmuGo).  
-If you find this plugin useful, feel free to ⭐️ the repo or share feedback!
+If you find this project useful, feel free to ⭐️ the repo or share feedback!
 
 ---
 
